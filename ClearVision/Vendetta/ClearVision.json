@@ -1,9 +1,9 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "SkibidiSigma v1.2.6",
+    "description": "skibidi",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "rawr",
          "id": "466968658997149706"
       }
     ],
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/violent-froggy00/SynSpoon/refs/heads/main/ClearVision/Vendetta/send-me-your-cutest-sfw-pictures-of-miku-for-my-phone-v0-82mtj3139yef1.jpeg",
+        "url": "https://raw.githubusercontent.com/violent-froggy00/SynSpoon/refs/heads/main/ClearVision/Vendetta/send-me-your-cutest-sfw-pictures-of-miku-for-my-phone-v0-5aoczhyquwef1.jpeg",
 	"alpha": 1
     },
     "plus": {
